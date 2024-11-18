@@ -1,5 +1,5 @@
 # Chatroom
-A chatroom application build on Java
+A chatroom application built on Java
 
 This was a final project for a class I took on Java programming for internet.
 Throughout this course we covered the basics of java, multithreading and server handling.
